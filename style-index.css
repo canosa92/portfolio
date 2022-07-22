@@ -100,7 +100,8 @@ body{
   .Welcome-section{
     margin-top: 40px;
     display: flex;
-  widht:100&
+  word-break:break-all;
+    height:100vh;
   }
 .Welcome-section h2{
   font-size: medium;
